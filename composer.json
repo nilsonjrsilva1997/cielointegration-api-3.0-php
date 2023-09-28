@@ -1,0 +1,19 @@
+{
+    "name": "developercielo/api-3.0-php",
+    "description": "Biblioteca da Cielo para transações de cartão de crédito.",
+    "type": "library",
+    "require": {
+        "developercielo/api-3.0-php": "1.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Developercielo\\Api30Php\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Cielo"
+        }
+    ]
+}
